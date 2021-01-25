@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+----------------------------------------------
+* Timetable: 급식용 시간표 https://github.com/chae03yb/Timetable
+* Timetable_CLI: 급식용 시간표 https://github.com/chae03yb/Timetable/tree/CLI-python
+* Logger: http 서버로 원격으로 로그 기록: https://github.com/chae03yb/Logger

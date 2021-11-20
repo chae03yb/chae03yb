@@ -16,12 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ## 레포 바로가기
-* Timetable: 급식용 시간표 https://github.com/chae03yb/Timetable
-* Timetable_CLI: 급식용 시간표 https://github.com/chae03yb/Timetable/tree/CLI-python
-* DaeGal: 디스코드 봇: https://github.com/chae03yb/DaeGal
+* [Timetable](https://github.com/chae03yb/Timetable): 온클 시간표 
+* [Timetable_CLI](https://github.com/chae03yb/Timetable/tree/CLI-python): 온클 시간표 (CLI)
+* [DaeGal](https://github.com/chae03yb/DaeGal): 디스코드 봇
 
 ## 연락처
 빨리 보는 순서대로
-
 * 디스코드: 샤프#8720
 * 이메일: chae03yb@gmail.com

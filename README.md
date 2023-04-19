@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 ## 연락처
 빨리 보는 순서대로
-* 디스코드: 샤프#8720
-* 이메일: chae03yb@gmail.com
-  - chae_yb@kakao.com
+* chae_yb@kakao.com
+* 샤프#8720
+* chae03yb@gmail.com

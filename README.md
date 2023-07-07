@@ -22,7 +22,5 @@ Here are some ideas to get you started:
 * [InstaDietInfoBot](https://github.com/chae03yb/insta-diet-info-bot): 인스타 급식 봇
 
 ## 연락처
-빨리 보는 순서대로
 * chae_yb@kakao.com
-* 샤프#8720
 * chae03yb@gmail.com
